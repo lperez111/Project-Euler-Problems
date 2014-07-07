@@ -10,5 +10,4 @@ def multiples(num)
 	array.inject(:+)
 end
 
-multiples(10)
 multiples(1000)
