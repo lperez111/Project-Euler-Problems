@@ -9,4 +9,4 @@ def palindrome
 	array.max
 end
 
-palindrome
+puts palindrome
